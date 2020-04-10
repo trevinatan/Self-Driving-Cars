@@ -1,7 +1,7 @@
 import numpy as np
 
 from hw import maxpool2d, conv2d_full
-from utils import imload, imsave, imshow
+from utils import imload, imsave_grayscale
 
 kodim = imload('kodim20.png')
 
